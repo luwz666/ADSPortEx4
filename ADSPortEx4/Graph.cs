@@ -16,12 +16,6 @@ namespace ADSPortEx4
 
     //For 4C, see lecture 10A and lab 10 to aid with your traversal implementation
 
-    //To address the last task for 4C, you can use BFS or DFS to as an idea of how to start off, but remember that we're only
-    // interested in loot that can be obtained from the safest possible route, so we don't nessicarily need to find everything on the network as in
-    // BFS and DFS!
-
-    // - Adam.M 
-
     class Graph<T> where T : IComparable
     {
         public Graph()
