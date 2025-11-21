@@ -9,12 +9,9 @@ namespace ADSPortEx4
     //Graph node implementation for Assessed Exercise 2
 
     //Hints : 
-    //Use lecture materials from Week 9A
-    // and lab sheet 'Lab 9: Graphs Implementation' to aid with base implementation...
-
+    //Use lecture materials from Week 9A and lab sheet 'Lab 9: Graphs Implementation' to aid with base implementation...
     //Then see materials for week 10 when moving onto 4B
 
-    // - Adam.M 
 
     class GraphNode<T>
     {
